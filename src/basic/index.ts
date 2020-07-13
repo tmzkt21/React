@@ -1,9 +1,9 @@
-import hello, {goodbye,birthday,add} from "./hello";
+import hello,{goodbye,birthday,add} from "./hello";
 import isType from "./isType";
 import operator from "./operator";
 import loop  from "./loop";
 
-let menu = 3
+let menu = 5
 let name:string = ""
 switch (menu) {
     case 0:
